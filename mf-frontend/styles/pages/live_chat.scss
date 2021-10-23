@@ -1,0 +1,19 @@
+.live_chat-layout{
+  display: flex;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  flex-wrap: wrap;
+  .container-fluid {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  }
+}
+
